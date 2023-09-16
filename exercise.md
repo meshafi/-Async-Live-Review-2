@@ -1,6 +1,6 @@
 # Async Exercise
 
-You have a serve which stores a large square 2d array with even number of rows and columns. The task is to replicated the 2d array on the client.
+You have a serve which stores a large square 2d array with even number of rows and columns. The task is to replicate the 2d array on the client.
 
 ## Perform the below steps in the following order:
 
