@@ -2,14 +2,6 @@ const express = require("express");
 const app = express();
 const port = 3000;
 
-function range(start, end) {
-  const result = [];
-  for (let i = start; i < end; i++) {
-    result.push(i);
-  }
-  return result;
-}
-
 /*
 generates a random Integer between pMin and pMax
 */
